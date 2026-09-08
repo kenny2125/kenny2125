@@ -64,30 +64,30 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-562%20hrs%2034%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 14 hrs 5 mins       ██████████████░░░░░░░░░░░   57.16 % 
-TypeScript               6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Bash                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-INI                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Markdown                 17 hrs 45 mins      ██████████████░░░░░░░░░░░   55.67 % 
+TypeScript               8 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+Other                    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+JSON                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 26 mins      █████████████████░░░░░░░░   66.69 % 
-Antigravity CLI          4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-VS Code                  4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Claude Code              23 hrs 55 mins      ███████████████████░░░░░░   74.99 % 
+VS Code                  4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Antigravity CLI          3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Codex CLI                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🐱‍💻 Projects: 
-batdimoiprint            5 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-meralco-registrar        3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-pmsuitev2                2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-maker-qa                 2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-pmsuite                  1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+meralco-registrar        10 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   31.80 % 
+batdimoiprint            5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+pmsuitev2                2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+maker-qa                 2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+pmsuite                  1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,5 +103,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 21:42:17 UTC
+ Last Updated on 08/09/2026 21:19:05 UTC
 <!--END_SECTION:waka-->
