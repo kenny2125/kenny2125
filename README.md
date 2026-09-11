@@ -70,24 +70,24 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 32 mins      █████████████░░░░░░░░░░░░   51.92 % 
-TypeScript               7 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-Other                    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Bash                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Markdown                 9 hrs 16 mins       █████████████░░░░░░░░░░░░   51.29 % 
+TypeScript               5 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   31.50 % 
+Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 56 mins      ███████████████████░░░░░░   76.45 % 
-Antigravity CLI          3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-VS Code                  2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Codex CLI                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Claude Code              13 hrs 28 mins      ███████████████████░░░░░░   74.55 % 
+Antigravity CLI          2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+VS Code                  2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Codex CLI                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🐱‍💻 Projects: 
-meralco-registrar        10 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   38.90 % 
-batdimoiprint            2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-pmsuitev2                2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-maker-qa                 2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-pmsuite                  1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+meralco-registrar        7 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.84 % 
+pmsuitev2                2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+batdimoiprint            1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+meralco-qa2              1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+CAPSTONE                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,5 +103,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 21:03:54 UTC
+ Last Updated on 11/09/2026 21:08:43 UTC
 <!--END_SECTION:waka-->
